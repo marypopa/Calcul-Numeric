@@ -1,4 +1,4 @@
-﻿%Edith
+%Edith
 %Fixpunktsatz von Banach wird benutzt
 f=@(x) (8-x)^1/3;
 x0=0;
